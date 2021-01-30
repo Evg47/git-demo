@@ -10,3 +10,4 @@ str6
 feature1
 
 feature2
+feature2.2
